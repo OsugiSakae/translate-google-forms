@@ -14,3 +14,7 @@ After setting the source and target languages, save the script and press "Run". 
 **Translating a Form WILL overwrite the original Form.** Be sure to make a copy of the form first if you need it in the original source language.
 
 Note that currently (as of October 2024), there is no way to change the labels of scales. There may be other cases too, where some text is not translated. Always double check and manually translate if needed.
+
+## Copyright
+
+This script was originally created by Don Yerks, Jr. with the help of ChatGPT. I (Chris Spackman), with the help of Google Gemini, fixed some bugs and added some features to Don's original script. This script is copyright Don Yerks and Chris Spackman and is published under the GPL 3.0 license.
